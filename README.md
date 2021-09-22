@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">, I'm Anish Singh</h1>
-<h3 align="center">A computer Science Undergraduate</h3>
+<h3 align="center">A Computer Science Undergraduate</h3>
 
 <br/>
 
