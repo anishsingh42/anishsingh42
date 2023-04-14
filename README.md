@@ -1,12 +1,11 @@
 
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">, I'm Anish Singh</h1>
-<h3 align="center">A Computer Science Undergraduate</h3>
+<h3 align="center">A Pre-Final Year Computer Science Undergraduate</h3>
 
 <br/>
 
-- 🔭 I’m currently exploring the world of Open Source. 
+- 🔭 I’m currently exploring the Backend TechStacks. 
 - 🌱 Polishing my Data Structure and Algorithm and Web Development skills.
-- ⚡ Fun fact: I like to expand my knowledge base.
 ### My Stats:
 ![](https://activity-graph.herokuapp.com/graph?username=anishsingh42&theme=github)
 
@@ -18,7 +17,8 @@
 ### Languages:
  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="auto"/> </a> 
  ### Web Development Tech Stacks:
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/><img src="https://image.pngaaa.com/390/4169390-middle.png" alt="sass" width="60" height="35"/>
+
 
 ### Connect with me on my socials:
 <a href="https://www.linkedin.com/in/anish-singh-9988a419a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -26,4 +26,5 @@
 <a href="https://github.com/anishsingh42" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
 ### May also view my:
- <a href="https://auth.geeksforgeeks.org/user/anishsingh42/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anishsingh42" height="30" width="40" /></a>
+ <a href="https://auth.geeksforgeeks.org/user/anishsingh42/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anishsingh42" height="40" width="40" /></a>
+  <a href="https://leetcode.com/anishsingh42/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="anishsingh42" height="40" width="40" /></a>
