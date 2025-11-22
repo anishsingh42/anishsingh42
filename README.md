@@ -4,8 +4,8 @@
 
 <br/>
 
-- 🔭 I’m currently exploring the Backend TechStacks. 
-- 🌱 Polishing my Data Structure and Algorithm, Data Analytics along with Web Developement.
+- 🔭 I’m currently exploring the Backend TechStacks and Machine Learning. 
+- 🌱 Polishing my Data Structure and Algorithm, Data Analytics along with understanding System Architecture.
 ### My Stats:
 ![](https://activity-graph.herokuapp.com/graph?username=anishsingh42&theme=github)
 
